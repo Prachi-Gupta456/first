@@ -1,3 +1,4 @@
 # first
 THis is  my first Git repository.
-Author-Prachi
+<br>
+Author-Prachi Gupta
